@@ -1,0 +1,11 @@
+C:\Users\RDBcakir\Desktop\phdAppKonsol\phdAppKonsol\bin\x86\Release\phdAppKonsol.exe.config
+C:\Users\RDBcakir\Desktop\phdAppKonsol\phdAppKonsol\bin\x86\Release\phdAppKonsol.exe
+C:\Users\RDBcakir\Desktop\phdAppKonsol\phdAppKonsol\bin\x86\Release\phdAppKonsol.pdb
+C:\Users\RDBcakir\Desktop\phdAppKonsol\phdAppKonsol\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\RDBcakir\Desktop\phdAppKonsol\phdAppKonsol\bin\x86\Release\phdapinet.dll
+C:\Users\RDBcakir\Desktop\phdAppKonsol\phdAppKonsol\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\RDBcakir\Desktop\phdAppKonsol\phdAppKonsol\obj\x86\Release\phdAppKonsol.Properties.Resources.resources
+C:\Users\RDBcakir\Desktop\phdAppKonsol\phdAppKonsol\obj\x86\Release\phdAppKonsol.csproj.GenerateResource.cache
+C:\Users\RDBcakir\Desktop\phdAppKonsol\phdAppKonsol\obj\x86\Release\phdAppKonsol.csproj.CopyComplete
+C:\Users\RDBcakir\Desktop\phdAppKonsol\phdAppKonsol\obj\x86\Release\phdAppKonsol.exe
+C:\Users\RDBcakir\Desktop\phdAppKonsol\phdAppKonsol\obj\x86\Release\phdAppKonsol.pdb
